@@ -4,8 +4,7 @@ import NavBar from "./NavBar";
 import Properties from "./Properties";
 import AddProperty from "./AddProperty";
 import logo from "../components/logo.png";
-import { Routes } from "react-router-dom";
-import { Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
