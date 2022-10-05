@@ -13,7 +13,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route path="/" element={Properties} />
-        <Route path="/" element={AddProperty} />
+        <Route path="/add-property" element={AddProperty} />
       </Routes>
       <img className="nav-bar-logo" src={logo} alt="NavBar" />
       <h2>Surreal Estate</h2>
