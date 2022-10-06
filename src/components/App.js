@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <NavBar />
       <Routes>
-        <Route path="/" element={Properties} />
+        <Route path="/view-properties" element={Properties} />
         <Route path="/add-property" element={AddProperty} />
       </Routes>
       <img className="nav-bar-logo" src={logo} alt="NavBar" />
