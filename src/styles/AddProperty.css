@@ -4,3 +4,44 @@
     margin: 0;
     padding: 0;
 }
+  .add-property-form {
+    padding: 10px;
+    display: grid;
+    background-color: white;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;  
+  }
+  
+  .add-property-input {
+    font-family: inherit;
+    font-size: inherit;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  
+  .add-property-select {
+    font-family: inherit;
+    font-size: inherit;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  
+  .add-property-button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 160px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(78, 5, 78);
+  }
+  
+  .add-property-price-span {
+    padding-left: 10px;
+    margin-right: -5px;
+  }
